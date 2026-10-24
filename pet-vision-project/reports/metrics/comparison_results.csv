@@ -1,0 +1,3 @@
+Tâche,Modèle,Accuracy,Précision macro,Rappel macro,F1-score macro,IoU macro,Dice macro
+Classification,CNN,0.127827745979831,0.136119718829967,0.1292742451306764,0.1077731550046576,,
+Segmentation,U-Net,0.855035681528303,,,,0.6496597643966825,0.7691318172807025
